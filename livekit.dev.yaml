@@ -1,0 +1,13 @@
+port: 7880
+rtc:
+    tcp_port: 7881
+    port_range_start: 50000
+    port_range_end: 60000
+    use_external_ip: false
+redis:
+    address: localhost:6379
+    username: default
+    password: password
+    db: 0
+keys:
+    APIdyoeEpMoVtQY: EJlqaf0Rob2mJDwHAhEcxbFgBhUNqX6WGkkmTmHVl2D
